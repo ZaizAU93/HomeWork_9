@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f3d3f40-8a5d-495a-874f-ef0280ab82f7" name="Changes" comment="" />
+    <list default="true" id="1f3d3f40-8a5d-495a-874f-ef0280ab82f7" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/hw_1_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_1_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_1_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_1_1/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_1_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_2_1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_2_1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_2_1/Dog_limited.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_2_1/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw_2_1/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ViM0u47sm69zYlIi8qSd2n3gJd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +43,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,9 +55,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695314230067</updated>
-      <workItem from="1695314234977" duration="1000" />
+      <workItem from="1695314234977" duration="3043000" />
+      <workItem from="1695631300116" duration="6566000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1695314276938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695314276938</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1695314286561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695314286561</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -45,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
